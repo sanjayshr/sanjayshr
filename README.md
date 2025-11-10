@@ -1,66 +1,144 @@
-# Hi 👋, I'm **Sanjay Shiradwade**
+---
 
-### **Building high-performance backend systems with Go**
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sanjayshr&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayshr" />
-</p>
+# Hi there, I'm **Sanjay Shiradwade** 👋
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjayshr&margin-w=10&row=1&theme=flat" alt="sanjayshr" />
+  <a href="#"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@SanjayShiradwade"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://twitter.com/sanjay_0x"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sanjay-shiradwade-6183451b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sponsors/sanjyshr"><img src="https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
 
-* 🔭 **Currently working on:**
-  Designing and optimizing distributed systems using Go, Kubernetes, and modern DevOps tooling.
+I'm a **Senior Backend Engineer** focused on building **high-performance, scalable backend systems** using Go, Kubernetes, and cloud-native tooling.
 
-* 🌱 **Currently learning:**
-  Advanced distributed systems, container orchestration, and backend performance engineering.
+For the past 8+ years, I've been working across distributed systems, microservices, observability, performance optimization, and DevOps workflows. My work spans system design, cloud infrastructure, and production-grade backend engineering.
 
-* 👯 **Looking to collaborate on:**
-  High-performance Go services, microservices, and cloud-native system architecture.
-
-* 🤝 **Looking for help with:**
-  Building resilient, production-grade Go systems and improving Kubernetes workflows.
-
-* 💬 **Ask me about:**
-  Go backend systems, scalable microservices, distributed architectures, and cloud-native tooling.
-
-* ⚡ **Fun fact:**
-  My whiteboard gets erased more often than my NVIM buffer.
-
-* 📫 **Reach me at:**
-  **[sanjayshiradwade@gmail.com](mailto:sanjayshiradwade@gmail.com)**
-
-* 👨‍💻 **Portfolio & Projects:**
-  [https://sanjayshr.github.io/](https://sanjayshr.github.io/)
-
-* 📝 **Blog articles:**
-  [https://sanjayshr.github.io/](https://sanjayshr.github.io/)
-
-* 📄 **Resume:**
-  [https://drive.google.com/file/d/1RX5lplO7gnWVV_bmT-uRIBlTJ5aFOg2x/view?usp=sharing](https://drive.google.com/file/d/1RX5lplO7gnWVV_bmT-uRIBlTJ5aFOg2x/view?usp=sharing)
+My passion is building **reliable systems**, exploring Go internals, and simplifying complex backend concepts for other developers.
 
 ---
 
-## 🌐 Connect With Me
+## 🔭 What I'm Working On
+
+* Designing and optimizing **distributed systems** with Go, Kubernetes, and cloud-native tooling
+* Building microservices with strong observability, performance, and resilience
+* Creating clean architecture templates and reproducible backend patterns in Go
+
+---
+
+## 🌱 What I'm Learning
+
+* Advanced distributed systems
+* Container orchestration & infra automation
+* Backend performance engineering
+* CI/CD pipelines & production deployment strategies
+
+---
+
+## 👯 Looking to Collaborate On
+
+* High-performance Go services
+* Distributed backend architecture
+* Cloud-native platforms (K8s, Docker, service meshes)
+* OSS tools for backend developers
+
+---
+
+## 🤝 Looking for Help With
+
+* Scaling production-grade Go systems
+* Optimizing Kubernetes workflows
+* Improving reliability, resilience, and infra automation
+
+---
+
+## 💬 Ask Me About
+
+* Go backend engineering
+* Microservices & distributed architecture
+* Performance tuning & concurrency
+* Docker, Kubernetes, CI/CD pipelines
+
+---
+
+## ⚡ Fun Fact
+
+My whiteboard gets erased more often than my NVIM buffer.
+
+---
+
+# 📦 Featured Projects
+
+<table>
+<tr>
+<th>Projects</th>
+<th>Language</th>
+<th>Stars</th>
+<th>Forks</th>
+<th>Issues</th>
+<th>Pull Requests</th>
+</tr>
+
+<tr>
+<td><a href="#">Quantum Safe Explorer – ECC crypto examples & Go backend tooling</a></td>
+<td><img src="https://skillicons.dev/icons?i=go" width="28" /></td>
+<td><img src="https://img.shields.io/github/stars/sanjyshr/quantum-safe-explorer?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/forks/sanjyshr/quantum-safe-explorer?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues/sanjyshr/quantum-safe-explorer?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues-pr/sanjyshr/quantum-safe-explorer?style=flat-square" /></td>
+</tr>
+
+<tr>
+<td><a href="#">Auth Service – Go + JWT + OAuth + Clean Architecture</a></td>
+<td><img src="https://skillicons.dev/icons?i=go" width="28" /></td>
+<td><img src="https://img.shields.io/github/stars/sanjyshr/auth-service?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/forks/sanjyshr/auth-service?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues/sanjyshr/auth-service?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues-pr/sanjyshr/auth-service?style=flat-square" /></td>
+</tr>
+
+<tr>
+<td><a href="#">cityin.ai — Local Events + AI Agents Platform</a></td>
+<td><img src="https://skillicons.dev/icons?i=go,ts" width="60" /></td>
+<td><img src="https://img.shields.io/github/stars/sanjyshr/cityin.ai?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/forks/sanjyshr/cityin.ai?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues/sanjyshr/cityin.ai?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues-pr/sanjyshr/cityin.ai?style=flat-square" /></td>
+</tr>
+
+</table>
+
+---
+
+# 🧰 My Toolbox
 
 <p align="left">
-  <a href="https://github.com/sanjyshr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="32" width="42" /></a>
-  <a href="https://linkedin.com/in/sanjay-shiradwade-6183451b3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="42" /></a>
-  <a href="https://twitter.com/sanjay_0x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32" width="42" /></a>
-  <a href="https://medium.com/@Sanjayshiradwade" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="32" width="42" /></a>
+  <img src="https://skillicons.dev/icons?i=go,kubernetes,docker,linux,git,jenkins,aws,gcp,azure,postgres,mysql,redis,elasticsearch,mongodb,sqlite,nginx,grafana,bash,c,py,ts,react,nodejs" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+# 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,kubernetes,docker,aws,gcp,azure,linux,bash,git,jenkins,postgres,mysql,redis,elasticsearch,mongodb,sqlite,nginx,grafana,nodejs,react,js,ts,py,c,figma" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjayshr&show_icons=true&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjayshr&layout=compact&theme=dark" height="170" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjayshr&theme=dark" height="180" />
+</p>
+
+---
+
+# 🌐 Social Links
+
+* **LinkedIn:** [https://linkedin.com/in/sanjay-shiradwade-6183451b3](https://linkedin.com/in/sanjay-shiradwade-6183451b3)
+* **Medium:** [https://medium.com/@Sanjayshiradwade](https://medium.com/@Sanjayshiradwade)
+* **Twitter:** [https://twitter.com/sanjay_0x](https://twitter.com/sanjay_0x)
 
 ---
